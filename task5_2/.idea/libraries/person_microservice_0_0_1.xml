@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="person-microservice-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/person-microservice/target/person-microservice-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
